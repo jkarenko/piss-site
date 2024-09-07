@@ -1,6 +1,10 @@
-# Piss Project
+# PISS Project
 
-This repository is the main repository for the Piss project, which includes both backend and frontend components as submodules.
+![screenshot of site](doc/piss.jpg)
+
+This repository is the main repository for the Pretty Interesting Sky Sightings project, a generic CRUD enabled photo album style app.
+
+This repository includes both backend and frontend components as submodules.
 
 ## Project Structure in Brief
 ```plaintext
